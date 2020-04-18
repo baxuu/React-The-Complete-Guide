@@ -1,11 +1,13 @@
-﻿# React - The Complete Guide (incl Hooks, React Router, Redux) 
+﻿## React - The Complete Guide (incl Hooks, React Router, Redux) 
 
 Academind by Maximilian Schwarzmüller,
 
+#### My solutions to the assignment included in the course
 
 
 
-## Inside the course
+
+### Inside the course
 - React Basics (Base features, syntax and concepts)
 - Managing state with class-based components and React Hooks
 - How to output lists and conditional content
