@@ -20,3 +20,21 @@ Academind by Maximilian Schwarzmüller,
 - An introduction to unit testing
 - An introduction to Next.js
 - React app deployment instructions
+
+
+## React from basics
+
+by Websamuraj
+
+### Inside the course
+- Practical introduction to React - JSX, component, state and props
+- Advanced issues (e.g. component life cycle, asynchronity of the setState method)
+- Create React App, JSON, API, AJAX
+- Input with validation
+- React Router
+- CSS
+
+
+
+
+
